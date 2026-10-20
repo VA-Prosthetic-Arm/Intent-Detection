@@ -1,1 +1,3 @@
 print('yellow')
+
+print('green')
