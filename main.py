@@ -1,1 +1,1 @@
-print('yello')
+print('yellow')
